@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Hi and welcome! 👋"
+date:   2020-04-26 14:52:32 -0300
+categories: introduction
+---
+Hello! 👋
+
+I know… You don’t know me. That why I would like to introduce myself.
+
+I’m Lucas and I work as Software Engineer at [Nubank][nubank-link], the world's largest fintech outside Asia.
+I previously worked at Plataformatec until it was [acqui-hired by Nubank][plataformatec-aquisition] and that’s why I have
+experience with Ruby and Elixir projects.
+
+In this blog, I will share things about programming (mostly about Clojure, Elixir and Ruby), career
+and Software Engineering in general. I don’t promise that I will update this blog frequently.
+But you can always be sure that I will share things that I find interesting and helpful to the community. 🙂
+
+You can also find in my [GitHub][github-url] and [LinkedIn][linkedin-url].
+
+Well... I hope you enjoy this blog. Thanks!
+
+[nubank-link]: https://nubank.com.br/
+[plataformatec-aquisition]: https://medium.com/building-nubank/tech-perspectives-behind-nubanks-first-acquisition-deal-what-this-business-move-means-and-how-it-d7d1233c72b8
+[github-url]: https://github.com/lslm
+[linkedin-url]: https://www.linkedin.com/in/lucassantos11/
