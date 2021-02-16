@@ -21,7 +21,7 @@
 title: Lucas Santos
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Things about Elixir, Ruby, Clojure and Software Engineering in general
+  Personal notes about Software Engineering in general
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lslm
