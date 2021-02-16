@@ -2,7 +2,7 @@
 layout: post
 title:  "You don't have to keep it simple"
 date:   2021-02-16 16:25:32 -0300
-categories: software engineering
+categories: software-engineering
 ---
 The answer to all questions is "**depends**".
 
